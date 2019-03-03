@@ -6,6 +6,7 @@ def main():
     a = 13
     b = a * a
     c = 13 * 13
+    d = 'loijhgfds'
     print(a)
 
 if __name__ == '__main__':
