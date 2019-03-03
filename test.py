@@ -1,7 +1,8 @@
 import numpy as np
+import random
 
 def main():
-    a = 5
+    a = 13
     print(a)
 
 if __name__ == '__main__':
