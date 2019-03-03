@@ -1,7 +1,7 @@
 import numpy as np
 
 def main():
-    a = 5
+    a = 55
     print(a)
 
 if __name__ == '__main__':
