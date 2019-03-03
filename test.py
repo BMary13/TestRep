@@ -5,6 +5,7 @@ import scipy as sp
 def main():
     a = 13
     b = a * a
+    c = 13 * 13
     print(a)
 
 if __name__ == '__main__':
