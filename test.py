@@ -1,5 +1,6 @@
 import numpy as np
 import random
+import scipy as sp
 
 def main():
     a = 13
